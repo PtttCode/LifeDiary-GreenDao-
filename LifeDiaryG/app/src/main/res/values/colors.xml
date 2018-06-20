@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color><!--白色 --> 
+    <color name="common_hint">#b8b7b7</color><!--描述与提示性文字用色 -->
+    <color name="common_gray">#919191</color><!--灰色 -->
+    <color name="common_blue">#0da6df</color><!--蓝色 -->
+    <color name="common_black">#313131</color><!--黑色 -->
+    <color name="common_green">#69b423</color><!--浅绿色 -->
+    <color name="common_red">#ff0000</color><!--红色 -->
+    <color name="common_orange">#f88f10</color><!--桔黄色 -->
+    <color name="common_warning_color">#f88f10</color><!--桔黄色 -->
+    <color name="common_dialog_tittle">#313131</color><!--title文字用色 -->
+    
+    <!-- 半透明界面 -->
+    <color name="transparent">#50000000</color>
+
+
+
+</resources>

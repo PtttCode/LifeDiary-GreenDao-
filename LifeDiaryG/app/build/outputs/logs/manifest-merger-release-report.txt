@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:2:1-88:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bb481dcdfded8f69616d5b24ffc4e216\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f06669f56900ca585fa638f9f5a8c905\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5137e473eb77bf034c67a66e5d3002e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97ea87b7be9fee86ac51f35a7f4b7d55\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2286e4580b0fa294c949e661f0e010b3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2fb9319ca686236b5113d05ce1f841b2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f8ba7a47c2897a88f3a5abf691350bcc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7bd74479b1867dabf3fae56d9cce62ef\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e7cfb680ee043662459e99805ee7f84f\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\50332d829f01c8619005117cdb04ebae\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:3:5-23
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:7:5-97
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:9:5-95
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:11:5-95
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:13:5-92
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:15:5-92
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:17:5-83
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:19:5-91
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:21:5-97
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:23:5-105
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:23:22-86
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:26:5-90
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:26:22-71
+uses-sdk
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:28:5-44
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:28:5-44
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:28:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bb481dcdfded8f69616d5b24ffc4e216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bb481dcdfded8f69616d5b24ffc4e216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f06669f56900ca585fa638f9f5a8c905\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f06669f56900ca585fa638f9f5a8c905\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5137e473eb77bf034c67a66e5d3002e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5137e473eb77bf034c67a66e5d3002e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97ea87b7be9fee86ac51f35a7f4b7d55\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97ea87b7be9fee86ac51f35a7f4b7d55\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2286e4580b0fa294c949e661f0e010b3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2286e4580b0fa294c949e661f0e010b3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2fb9319ca686236b5113d05ce1f841b2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2fb9319ca686236b5113d05ce1f841b2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f8ba7a47c2897a88f3a5abf691350bcc\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f8ba7a47c2897a88f3a5abf691350bcc\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7bd74479b1867dabf3fae56d9cce62ef\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7bd74479b1867dabf3fae56d9cce62ef\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e7cfb680ee043662459e99805ee7f84f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e7cfb680ee043662459e99805ee7f84f\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\50332d829f01c8619005117cdb04ebae\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\50332d829f01c8619005117cdb04ebae\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:28:5-44
+INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:28:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:28:5-44
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:28:15-41
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:30:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:31:5-71
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:31:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:34:22-77
+application
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:37:5-86:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bb481dcdfded8f69616d5b24ffc4e216\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bb481dcdfded8f69616d5b24ffc4e216\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f06669f56900ca585fa638f9f5a8c905\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f06669f56900ca585fa638f9f5a8c905\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5137e473eb77bf034c67a66e5d3002e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5137e473eb77bf034c67a66e5d3002e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97ea87b7be9fee86ac51f35a7f4b7d55\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97ea87b7be9fee86ac51f35a7f4b7d55\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2286e4580b0fa294c949e661f0e010b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2286e4580b0fa294c949e661f0e010b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2fb9319ca686236b5113d05ce1f841b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2fb9319ca686236b5113d05ce1f841b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f8ba7a47c2897a88f3a5abf691350bcc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f8ba7a47c2897a88f3a5abf691350bcc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7bd74479b1867dabf3fae56d9cce62ef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7bd74479b1867dabf3fae56d9cce62ef\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e7cfb680ee043662459e99805ee7f84f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e7cfb680ee043662459e99805ee7f84f\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\50332d829f01c8619005117cdb04ebae\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\50332d829f01c8619005117cdb04ebae\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:39:9-41
+	android:icon
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:38:9-45
+service#com.amap.api.location.APSService
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:40:9-76
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:40:18-65
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:41:9-45:21
+	android:value
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:43:13-61
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:42:13-50
+provider#andy.ham.LifeDiaryContentProvider
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:46:9-48:67
+	android:authorities
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:48:13-64
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:47:13-53
+activity#andy.ham.StartActivity
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:50:9-57:20
+	android:theme
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:51:13-70
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:50:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:55:27-74
+activity#andy.ham.LifeDiary
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:59:9-62:20
+	android:label
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:61:13-45
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:60:13-38
+activity#andy.ham.DiaryEditor
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:64:9-81:20
+	android:label
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:66:13-48
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:65:13-40
+intent-filter#android.intent.category.DEFAULT+andy.ham.DiaryEditor.EDIT_DIARY
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:67:13-73:29
+action#andy.ham.DiaryEditor.EDIT_DIARY
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:68:17-74
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:68:25-71
+category#android.intent.category.DEFAULT
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:70:17-76
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:70:27-73
+data
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:72:17-85
+	android:mimeType
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:72:23-82
+intent-filter#android.intent.category.DEFAULT+andy.ham.DiaryEditor.action.INSERT_DIARY
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:74:13-80:29
+action#andy.ham.DiaryEditor.action.INSERT_DIARY
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:75:17-83
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:75:25-80
+activity#andy.ham.pageView.MainAcitivity
+ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:82:9-85:20
+	android:theme
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:83:19-75
+	android:name
+		ADDED from D:\Android_Real_Pro\forGithub\LifeDiaryG\app\src\main\AndroidManifest.xml:82:19-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bb481dcdfded8f69616d5b24ffc4e216\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\bb481dcdfded8f69616d5b24ffc4e216\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f06669f56900ca585fa638f9f5a8c905\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f06669f56900ca585fa638f9f5a8c905\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5137e473eb77bf034c67a66e5d3002e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5137e473eb77bf034c67a66e5d3002e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97ea87b7be9fee86ac51f35a7f4b7d55\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\97ea87b7be9fee86ac51f35a7f4b7d55\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2286e4580b0fa294c949e661f0e010b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\2286e4580b0fa294c949e661f0e010b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2fb9319ca686236b5113d05ce1f841b2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2fb9319ca686236b5113d05ce1f841b2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f8ba7a47c2897a88f3a5abf691350bcc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\f8ba7a47c2897a88f3a5abf691350bcc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7bd74479b1867dabf3fae56d9cce62ef\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7bd74479b1867dabf3fae56d9cce62ef\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dfb05ea121b510be73c75f46634de0fe\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\50332d829f01c8619005117cdb04ebae\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\50332d829f01c8619005117cdb04ebae\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\PATIR\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\50332d829f01c8619005117cdb04ebae\AndroidManifest.xml:26:13-58
